@@ -118,8 +118,4 @@
 - Uploaded all documentation and screenshots to GitHub
 - Reviewed the full project and cleaned up redundant code and comments
 
-**📷 Pictures/Videos:**
-
-![Final game UI](./images/entry7_final_ui.png)
-
 ---
