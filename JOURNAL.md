@@ -35,7 +35,7 @@
 
 **📷 Pictures/Videos:**
 
-![GUI button layout](./images/entry2_gui_complete.png)
+![GUI button layout](https://github.com/OmarAhmedHaiduq/Chess-game-with-AI/blob/main/progress/finished%20GUI.JPG)
 
 ---
 
@@ -50,10 +50,6 @@
 - Debugged several edge cases (e.g., blocking own king, diagonal captures)
 - Wrote utility functions to clean up movement rules
 
-**📷 Pictures/Videos:**
-
-![Move validation code](./images/entry3_logic_debug.png)
-
 ---
 
 ### 🗓️ Entry 4
@@ -67,9 +63,6 @@
 - Worked on special rules: castling, en passant, and pawn promotion
 - Improved UX for game mode selection and user messages
 
-**📷 Pictures/Videos:**
-
-![Castling logic preview](./images/entry4_castling.png)
 
 ---
 
@@ -84,9 +77,6 @@
 - Used alpha-beta pruning to improve decision speed
 - Tested the AI against human moves for bugs and strategy
 
-**📷 Pictures/Videos:**
-
-![AI minimax logic](./images/entry5_minimax.png)
 
 ---
 
