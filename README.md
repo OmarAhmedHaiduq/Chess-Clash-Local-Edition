@@ -164,7 +164,7 @@ There is a black box on the bottom right-hand side of the screen underneath the 
 | `Controller.py`  | Source Code   | Game logic: moves, rules, checks, etc. | 1          | Local (repo)                                    |
 | `Engine.py`      | Source Code   | Minimax AI with alpha‑beta pruning     | 1          | Local (repo)                                    |
 | `Package.py`     | Source Code   | PyInstaller packaging & signing script | 1          | Local (repo)                                    |
-| `Assets/`        | Folder        | Chessboard, pieces, and UI image files | \~40 files | Local (repo)                                    |
+| `Assets/`        | Folder        | Chessboard, pieces, and UI image files | \~20 files | Local (repo)                                    |
 | `README.md`      | Documentation | Project instructions and overview      | 1          | Local (repo)                                    |
 | `pygame`         | Dependency    | Game rendering library (via pip)       | 1          | [PyPI](https://pypi.org/project/pygame/)        |
-| Python 3.12+     | Dependency    | Interpreter (tested version)           | 1+         | [Python.org](https://www.python.org/downloads/) |
+| Python 3.11+     | Dependency    | Interpreter (tested version)           | 1+         | [Python.org](https://www.python.org/downloads/) |
