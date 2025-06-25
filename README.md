@@ -153,7 +153,7 @@ There is a black box on the bottom right-hand side of the screen underneath the 
 ![Chess - frame at 0m59s](https://github.com/GeorgesCoding/Chess/assets/118407807/fa434f2e-0a77-42ce-a092-9a218224c755)
 
 # Why did I make this project?
- Just trying to sharpen my problem-solving skills and have fun while coding cool stuff.
+I'm diving into the exciting world of pure Python programming, sharpening my problem-solving skills while having a blast creating cool projects!
 
  # Bill of Materials (BOM)
 
