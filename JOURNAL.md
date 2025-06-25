@@ -103,7 +103,7 @@
 
 **📷 Pictures/Videos:**
 
-![Game running](./progress/Final_result.jpeg)
+![Game running](progress/Final result.JPG)
 
 ---
 
