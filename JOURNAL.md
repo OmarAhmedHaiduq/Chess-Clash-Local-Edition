@@ -18,7 +18,7 @@
 
 **📷 Pictures/Videos:**
 
-![GUI.py](./progress/begin_GUI.jpeg)
+![GUI.py](https://github.com/OmarAhmedHaiduq/Chess-game-with-AI/blob/main/progress/begin%20GUI.JPG)
 
 ---
 
@@ -103,7 +103,7 @@
 
 **📷 Pictures/Videos:**
 
-![Game running](progress/Final result.JPG)
+![Game running](https://github.com/OmarAhmedHaiduq/Chess-game-with-AI/blob/main/progress/Final%20result.JPG)
 
 ---
 
