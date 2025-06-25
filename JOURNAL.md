@@ -18,7 +18,7 @@
 
 **📷 Pictures/Videos:**
 
-![Initial board layout](./images/entry1_board_setup.png)
+![GUI.py](./progress/begin_GUI.jpeg)
 
 ---
 
@@ -103,7 +103,7 @@
 
 **📷 Pictures/Videos:**
 
-![PyInstaller setup](./images/entry6_pyinstaller.png)
+![Game running](./progress/Final_result.jpeg)
 
 ---
 
