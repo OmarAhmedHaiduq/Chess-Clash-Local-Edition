@@ -1,0 +1,10 @@
+Component,Type,Description,Quantity,Source
+Main.py,Source Code,Game initialization & event handling,1,Repo
+GUI.py,Source Code,Board and UI drawing, dialogue window logic,1,Repo
+Controller.py,Source Code,Game logic: moves, rules, checks, promotions,1,Repo
+Engine.py,Source Code,Minimax AI with alpha‑beta pruning,1,Repo
+Package.py,Source Code,Packaging script for PyInstaller + signing,1,Repo
+Assets/,Folder,Images for board, pieces, buttons,1 set (~40 files),Repo
+README.md,Documentation,Project overview and instructions,1,Repo
+pygame,Dependency,2D graphics & input handling library,1 (via pip),PyPI
+Python 3.12+,Dependency,Runtime interpreter (tested),1+,Python.org
